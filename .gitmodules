@@ -1,0 +1,3 @@
+[submodule "kartrider-private"]
+	path = kartrider-private
+	url = https://github.com/lkh0310kr/kartrider-private.git
